@@ -1,0 +1,13 @@
+Task 5 – Cybercrime Awareness
+
+Part A – Case Study
+
+Title: Phishing Attack Case Study
+
+Phishing is a type of cybercrime where attackers try to steal sensitive information such as passwords, bank details, or personal data by pretending to be a trusted source. This usually happens through fake emails, messages, or websites that look genuine.
+
+In a typical phishing attack, the victim receives an email that appears to be from a bank or a trusted company. The email may contain a link asking the user to update their account details or verify their identity. When the user clicks on the link, they are redirected to a fake website that looks similar to the original one. The user unknowingly enters their personal information, which is then captured by the attacker.
+
+Students and working professionals are common targets because they frequently use emails and online services. The consequences of phishing attacks can be serious, including financial loss, identity theft, and unauthorized access to accounts.
+
+This type of cybercrime is increasing rapidly due to the growing use of digital platforms. Therefore, it is important for users to stay alert and verify the authenticity of emails and links before taking any action.
